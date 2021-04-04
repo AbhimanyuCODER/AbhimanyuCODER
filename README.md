@@ -1,4 +1,4 @@
-### **Hello..Hola...Bonjour 👋*
+### Hello..Hola...Bonjour 👋
 
 I am a 2nd year B.Tech student looking forward for opportunities and collabaration in projects related to web and app-
 
