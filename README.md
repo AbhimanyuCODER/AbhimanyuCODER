@@ -1,6 +1,6 @@
 ### Hello..Hola...Bonjour 👋
 
-Myself **Abhimanyu Chauhan**, a 2nd year B.Tech student looking forward for opportunities and collabaration in projects related to web and app-
+Myself **Abhimanyu Chauhan**, a 2nd year B.Tech student majors in Computer Science and Engineering looking forward for opportunities and collabaration in projects related to App Development.
 
 ✔ I’m currently working on Flutter apps and brushing up my Competitive Programming skills.
 
