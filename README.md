@@ -12,7 +12,7 @@ Myself **Abhimanyu Chauhan**, a 2nd year B.Tech student majors in Computer Scien
 
 ✔ I’m looking for help with Freelancing projects realed to App development.
 
-✔ Ask me about - App D and Algos📲
+✔ Ask me about - Development and Algos📲
 
 ✔ How to reach me: LinkedIn : https://www.linkedin.com/in/abhimanyu-chauhan-a369041a9/
 
