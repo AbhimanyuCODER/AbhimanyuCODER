@@ -6,9 +6,9 @@ Myself **Abhimanyu Chauhan**, a 2nd year B.Tech student majors in Computer Scien
 
 ✔ I’m currently working on Flutter apps and brushing up my Competitive Programming skills.
 
-✔ I’m currently learning JAVA and Data Structures.
+✔ I’m currently learning DSA and Web Development.
 
-✔ I’m looking to collaborate on App development projects.
+✔ I’m looking to collaborate on Web development projects.
 
 ✔ I’m looking for help with Freelancing projects realed to App development.
 
@@ -16,7 +16,7 @@ Myself **Abhimanyu Chauhan**, a 2nd year B.Tech student majors in Computer Scien
 
 ✔ How to reach me: LinkedIn : https://www.linkedin.com/in/abhimanyu-chauhan-a369041a9/
 
-✔ Languages Known : C || C++ || JAVA
+✔ Languages Known : C || C++ || JAVA || Python
 
 ✔ Love to play Guitar 🎸 in off time 🤗
 
