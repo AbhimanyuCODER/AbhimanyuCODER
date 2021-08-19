@@ -10,7 +10,7 @@ Myself **Abhimanyu Chauhan**, a 2nd year B.Tech student majors in Computer Scien
 
 ✔ I’m looking to collaborate on Web development projects.
 
-✔ I’m looking for help with Freelancing projects realed to App development.
+✔ I’m looking for help with Freelancing projects realed to Web development.
 
 ✔ Ask me about - Development and Algos📲
 
