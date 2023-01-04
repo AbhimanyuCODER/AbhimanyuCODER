@@ -2,7 +2,7 @@
 
 ### Hello...Hola...Bonjour 👋
 
-Myself **Abhimanyu Chauhan**, a 3rd year B.Tech student majors in Computer Science and Engineering looking forward for opportunities and collabaration in projects related to App Development.
+Myself **Abhimanyu Chauhan**, a final year B.Tech student majors in Computer Science and Engineering looking forward for opportunities and collabaration in projects related to App Development.
 
 ✔ I’m currently working on Web related projects and brushing up my Competitive Programming skills.
 
@@ -16,7 +16,7 @@ Myself **Abhimanyu Chauhan**, a 3rd year B.Tech student majors in Computer Scien
 
 ✔ How to reach me: LinkedIn : https://www.linkedin.com/in/abhimanyu-chauhan-a369041a9/
 
-✔ Languages Known : C || C++ || JAVA || Python
+✔ Languages Known : C || C++ || React || Python || Javascript || HTML/CSS/Bootstrap || REST API || Mulesoft
 
 ✔ Love to play Guitar 🎸 in off time 🤗
 
